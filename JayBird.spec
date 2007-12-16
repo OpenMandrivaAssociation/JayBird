@@ -1,7 +1,7 @@
 Summary:	Firebird Class 4 JCA-JDBC driver
 Name:		JayBird
 Version:	2.1.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	LGPL
 Group:		Development/Java
 URL:		http://www.firebirdsql.org/
@@ -11,7 +11,7 @@ BuildRequires:	ant-nodeps
 BuildRequires:	ant-trax
 BuildRequires:	docbook-style-xsl
 BuildRequires:	java-gcj-compat-devel
-BuildRequires:	jpackage-utils >= 0:1.6
+BuildRequires:	java-rpmbuild >= 0:1.6
 BuildRequires:	xalan-j2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
