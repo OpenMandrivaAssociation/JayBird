@@ -13,6 +13,7 @@ BuildRequires:	docbook-style-xsl
 BuildRequires:	java-gcj-compat-devel
 BuildRequires:	java-rpmbuild >= 0:1.6
 BuildRequires:	xalan-j2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 JayBird is JCA/JDBC driver suite to connect to Firebird database server.
