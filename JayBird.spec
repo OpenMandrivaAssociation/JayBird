@@ -1,7 +1,7 @@
 Summary:	Firebird Class 4 JCA-JDBC driver
 Name:		JayBird
 Version:	2.1.0
-Release:	%mkrel 2
+Release:	%mkrel 4
 License:	LGPL
 Group:		Development/Java
 URL:		http://www.firebirdsql.org/
