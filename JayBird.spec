@@ -4,7 +4,7 @@ Version:	2.1.0
 Release:	%mkrel 5
 License:	LGPL
 Group:		Development/Java
-URL:		http://www.firebirdsql.org/
+URL:		https://www.firebirdsql.org/
 Source0:	http://ufpr.dl.sourceforge.net/sourceforge/firebird/%{name}-%{version}-src.tar.bz2
 BuildRequires:	ant >= 0:1.6
 BuildRequires:	ant-nodeps
